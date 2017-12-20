@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "lab3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "james",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}

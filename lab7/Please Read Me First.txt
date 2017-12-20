@@ -1,0 +1,17 @@
+Zhiyuan(James) Zhang
+
+I pledge my honor that I have abided by the Stevens Honor System. ——— James
+
+Hi, I first did everything in the old promise way, I did not see the one line at the bottom of the canvas page that says doing it in the async and await way. 
+
+I fixed the recipes.js and comments.js. Everything is implemented in the todo.js, which included the recipes and comments part. I did not have time to change the todo.js into the async and await format. 
+
+Sorry about that, but you know I understand the async and await concept. I have also attached the screen shot of Postman app. The deletion also works, it return “OK” after I delete a recipe. 
+
+Just to say sorry again I did not fixed the todo.js into async and await. (It was halloween weekend)
+
+Apologizing again, 
+
+Best,
+
+James
